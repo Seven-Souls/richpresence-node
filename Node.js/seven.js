@@ -16,7 +16,7 @@ rpc.on('ready', () => {
 			smallImageText: "L'efficacité, notre priorité !",
 			buttons: [
 				{ label: "Le bot officiel", url: "https://discord.com/api/oauth2/authorize?client_id=528258150500007947&permissions=-1&scope=bot" },
-				{ label: "Serveur de support", url: "https://discord.gg/UZXKbgN" }
+				{ label: "Serveur de support", url: "https://discord.gg/7Fd2ZqhCsW" }
 			],
 			instance: false
 		});
